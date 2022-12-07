@@ -5,7 +5,7 @@
        padding: 0;
        box-sizing: border-box;
     }   
-  
+ 
     body  {
         display: flex;
         margin: 10px;
@@ -117,7 +117,7 @@
         cursor: pointer;
         border: solid 1px hsl(300, 69%, 71%);
     }
-
+    
     @media only screen and (max-width:500px) {
         body {   
             display: flex;
