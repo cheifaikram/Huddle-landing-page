@@ -10,9 +10,9 @@ When realizing this project you will be able to:
 </ul>
 <h3>Screenshot</h3>
 <h3>1- DESKTOP </h3>
-<IMG SRC="images/screen-shot desktop.png" style="width="520" height="340">
+<IMG SRC="images/screen-shot desktop.png" style="width="420" height="340">
 <h3>2- MOBILE </h3>
-<IMG SRC="images/screen-shot mobile.png" style="width="520" height="340">
+<IMG SRC="images/screen-shot mobile.png" style="width="620" height="340">
 
 <h3>Links</h3>
 <ul>
