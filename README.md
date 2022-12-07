@@ -16,7 +16,6 @@ When realizing this project you will be able to:
 
 <h3>Links</h3>
 <ul>
-  <li>Solution URL: <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-R6F93T05Wa"> My Solution </a> </li>
   <li>Live Site URL:  <a href="https://zesty-pika-884465.netlify.app/"> Live Demo </a></li>
 </ul>
 
